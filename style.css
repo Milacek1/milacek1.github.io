@@ -126,7 +126,6 @@ nav img{
   transform: translate(-50%, -50%);
   text-align: center;
   z-index: 1;
-  border: 5px solid white;
 }
 .banner-content p{
     color: white;
