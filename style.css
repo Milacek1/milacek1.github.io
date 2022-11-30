@@ -167,6 +167,20 @@ nav .fa{
         margin-top: -25px;
         width: 70px;
     }
+  
+    .banner-content{
+        display: block;
+        width: 50%;
+        height: 200px;
+        position: absolute;
+        background: transparent;
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        z-index: 1;
+    }
+  
     .banner-content h1{
         font-size: 40px;
     }
